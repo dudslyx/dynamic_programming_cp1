@@ -11,7 +11,7 @@
 from collections import deque
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns  # NOVO
+import seaborn as sns 
 import random
 
 # ---------------------------
